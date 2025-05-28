@@ -12,4 +12,5 @@ https://inria.hal.science/hal-02383654v1/file/ModernC.pdf
 https://theswissbay.ch/pdf/Books/Computer%20science/Computer%20Organization%20and%20Design-%20The%20HW_SW%20Inteface%205th%20edition%20-%20David%20A.%20Patterson%20%26%20John%20L.%20Hennessy.pdf
 https://tryhackme.com/
 https://www.root-me.org/?lang=en#recompense_process
+https://ccrma.stanford.edu/~jos/pubs.html (more eletrical engineering/signal processing but  still has some good pubs)
 
