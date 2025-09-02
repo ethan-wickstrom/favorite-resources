@@ -35,10 +35,7 @@ export function addResource(resources: readonly Resource[], resource: Resource):
 }
 
 export function removeResource(resources: readonly Resource[], index: number): readonly Resource[] {
-  const before: readonly Resource[] = resources.slice(0, index);
-  const after: readonly Resource[] = resources.slice(index + 1);
-  const merged: readonly Resource[] = [...before, ...after];
-  return merged;
+  return resources.filter((_, i) => i !== index);
 }
 
 export function updateResource(resources: readonly Resource[], index: number, resource: Resource): readonly Resource[] {
